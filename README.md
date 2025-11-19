@@ -1,14 +1,8 @@
 <h1 align="center">
   ecom-ai · MERN Commerce 
   <img 
-    alt="AI"
-    height="36"
-    src="data:image/svg+xml;utf8,
-    <svg xmlns='http://www.w3.org/2000/svg' width='80' height='36'>
-      <text x='0' y='28' fill='orange' font-size='28' font-family='Arial'>X AI</text>
-    </svg>"
-    style="vertical-align:middle; display:inline-block; margin:0; padding:0;" 
-  />
+    ecom-ai · MERN Commerce
+  <img src="./assets/x-ai.svg" height="36" alt="× AI" style="vertical-align:middle;" />
   🛍️🤖
 </h1>
 
