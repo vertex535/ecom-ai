@@ -30,4 +30,3 @@ class JwtProvider {
 }
 
 module.exports = new JwtProvider(secretKey);
-
